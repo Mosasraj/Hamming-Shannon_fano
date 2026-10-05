@@ -6,7 +6,7 @@ Show that by drawing the tree diagram, and
 Calculate the average code word length, entropy, variance, redundancy, and efficiency.
 # Tools Required:
 # Program:
-```
+```c
 #Huffman and Shannon-Fano coding
 import numpy as np
 import math 
